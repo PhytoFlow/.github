@@ -1,12 +1,10 @@
-<div align="center">
-  <img src="logo.png" alt="PhytoFlow Logo" width="400" style="border-radius: 20px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-  
-# PhytoFlow
-
-## Um Sistema de Irrigação Inteligente
-  
-*Revolucionando a agricultura sustentável através da tecnologia IoT*
-</div>
+  <div align="center">
+    <img src="logo.png" alt="PhytoFlow Logo" width="400" style="border-radius: 20px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+  <summary>
+  <h1>Um Sistema de Irrigação Inteligente</h1>
+  <p >Revolucionando a agricultura sustentável através da tecnologia IoT</p>
+  </summary>
+  </div>
 
 ## 🌱 Sobre o Projeto
 
